@@ -5,3 +5,5 @@ gpiozero
 lgpio
 RPLCD
 smbus2
+cryptography
+matplotlib
