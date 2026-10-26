@@ -5,7 +5,7 @@
 Master's research project, Université Cheikh Anta Diop de Dakar (UCAD), Senegal.
 Author: **Sawdiatou Akapo**
 
-> **Demo video (1 min 41 s):** [Watch the live demo](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+> **Demo video (1 min 41 s):** [Watch the live demo](https://drive.google.com/file/d/1HBq2Pz5nWArZMOBNVB12gkiVgb_DzFUa/view?usp=sharing)
 
 ---
 
