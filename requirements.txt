@@ -1,0 +1,7 @@
+insightface
+onnxruntime
+numpy
+gpiozero
+lgpio
+RPLCD
+smbus2
